@@ -20,5 +20,4 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ai-sign-language.git
-   cd ai-sign-language
+   git@github.com:MadanBabu1314114/AI-Sign-Language.git
